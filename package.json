@@ -1,0 +1,72 @@
+{
+    "router": [
+        "/",
+        "/about"
+    ],
+    "link": [
+        {
+            "attribute": {
+                "href": "/css/chunk-bc234fd6.84cbc1d6.css",
+                "rel": "prefetch"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/chunk-2d0c76c8.7e27365d.js",
+                "rel": "prefetch"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/chunk-2d23718c.1ce243f0.js",
+                "rel": "prefetch"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/chunk-bc234fd6.c6d2736b.js",
+                "rel": "prefetch"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/app.8da72f57.css",
+                "rel": "preload",
+                "as": "style"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/chunk-vendors.856cf361.css",
+                "rel": "preload",
+                "as": "style"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/app.b31804af.js",
+                "rel": "preload",
+                "as": "script"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/chunk-vendors.b195a2d1.js",
+                "rel": "preload",
+                "as": "script"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/chunk-vendors.856cf361.css",
+                "rel": "stylesheet"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/app.8da72f57.css",
+                "rel": "stylesheet"
+            }
+        }
+    ]
+}
